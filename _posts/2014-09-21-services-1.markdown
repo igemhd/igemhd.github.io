@@ -1,8 +1,12 @@
 ---
 layout: default
-img: ipad.png
+img: softwaredeity.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: The Drylab
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  You enjoy the abstract? You thrive in crunching numbers?
+  Living things are too messy for your taste?
+  Then the Drylab is the place to go.
+  Apply mathematics, physics and computer science to make
+  the magic happen in biology!

@@ -1,0 +1,20 @@
+---
+layout: default
+img: legacy.png
+category: Services
+title: The Heidelberg Legacy
+description: |
+---
+In the past, Heidelberg iGEM teams have been very successful at the competition,
+collecting many grand and special prizes.
+Want to see some examples of these successful teams? Look no further!
+<br/>
+2017: <a href="https://2017.igem.org/Team:Heidelberg">The Phage and the Furious</a>
+<br/>
+2015: <a href="https://2015.igem.org/Team:Heidelberg">Catch it, if you can</a>
+<br/>
+2014: <a href="https://2014.igem.org/Team:Heidelberg">The Ring of Fire</a>
+<br/>
+2013: <a href="https://2013.igem.org/Team:Heidelberg">The Philosopher's Stone</a>
+<br/>
+Let us continue their glorious history!

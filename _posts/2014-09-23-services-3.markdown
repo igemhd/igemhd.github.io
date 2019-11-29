@@ -1,8 +1,11 @@
 ---
 layout: default
-img: phones.png
+img: holy.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Science Communicators
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Science is hard, complex and sometimes a mess to understand.
+Do you enjoy communicating science? Do you have the right
+explanations and the enthusiasm and patience to bring them to the people?
+Then let iGEM be your stage!

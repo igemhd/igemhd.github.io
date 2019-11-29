@@ -2,16 +2,16 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
+url: http://igemhd.github.io
+title: iGEM Heidelberg 2020
+email: igemhd@protonmail.com
+author: iGEM Heidelberg
 description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+  Welcome to the front desk of the iGEM Team Heidelberg 2020. Are you wondering
+  whether iGEM is right for you? Then you've come to the right place.
+  iGEM is – indeed – very right for you.
+copyright: 'Copyright &copy; 2019 iGEM RC/Heidelberg. All Rights Reserved.'
+credits: 'Credits: This is a free to use, open source Bootstrap theme based on Landing page, created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,9 +26,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+    icon: github
+    url: https://github.com/igemhd
+  - title: mail
+    icon: envelope
+    url: mailto:igemhd@protonmail.com
