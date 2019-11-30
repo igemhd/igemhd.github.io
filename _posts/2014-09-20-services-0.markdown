@@ -9,9 +9,6 @@ description: |
   Are you wondering about what makes living things tick?
   Do you wish to work and learn together with other students across many scientific disciplines?
   Are you itching to build up your very own scientific project?
-  Is curiosity second nature for you?
-  Do you enjoy telling others about your science?
-  Are you sitting in front of your computer, wondering if iGEM is right for you?
   Then you have come to the right place. We're looking for people just like you!
   We're assembling an interdisciplinary team of people to build up a project for the
   2020 iGEM competition in Boston.
