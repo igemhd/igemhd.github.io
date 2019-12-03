@@ -12,7 +12,8 @@ description: |
   Then you have come to the right place. We're looking for people just like you!
   We're assembling an interdisciplinary team of people to build up a project for the
   2020 iGEM competition in Boston.
-  If you're interested in joining, send us your application at
+  If you're interested in joining, send us your application containing <b>your CV</b>
+  and a <b>letter of motivation of 1 page</b> at
   <a href="mailto:igemhd.protonmail.com">
     igemhd@protonmail.com
   </a>.
